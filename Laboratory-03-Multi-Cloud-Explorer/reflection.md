@@ -1,0 +1,9 @@
+# Reflections
+
+Working through this Multi-Cloud Explorer lab gave me a much clearer picture of how AWS, Microsoft Azure, and Google Cloud Platform actually differ in real life, not just on paper. Before this activity, I mostly saw the three platforms as competitors that offer similar services under different names. Mapping their equivalent services side by side — compute, storage, identity, databases, and Kubernetes — helped me realize that the biggest differences aren’t about who has more features. It’s more about ecosystem fit, how well everything connects, and what each platform is really good at.
+
+Building recommendations for the four different clients made this even clearer. A startup can take advantage of AWS’s flexibility and wide range of services as it grows. A university that already uses a lot of Microsoft tools benefits most from Azure because of how tightly it works with Active Directory and Microsoft 365. An AI research company is better off with Google Cloud because of its strength in machine learning and high-performance computing. A global e-commerce company needs AWS’s large distributed infrastructure so it can serve customers reliably all over the world. This showed me that choosing a cloud platform isn’t about finding the “best” one overall. It’s about matching the platform’s strengths to what the organization already uses, the kind of work it does, and what it’s trying to achieve.
+
+The Linux investigation part also made the lab feel more real. Even when recommending cloud services, you first have to understand the system you’re moving — its OS, CPU, memory, and disk usage — before deciding which services could actually host it.
+
+This lab changed the way I look at cloud platforms. I used to just memorize service names, but now I can actually think through why one provider makes more sense than another depending on the situation.
