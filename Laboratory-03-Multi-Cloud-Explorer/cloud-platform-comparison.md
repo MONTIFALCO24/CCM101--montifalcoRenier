@@ -29,3 +29,14 @@ Google Cloud is particularly strong in artificial intelligence, machine learning
 ### 4. Which cloud platform would you personally choose and why?
 
 I would personally choose AWS because it provides a broad range of services and gives organizations many options for different workloads. Its large ecosystem can also provide opportunities to learn different areas of cloud computing and support applications as they grow.
+
+## Equivalent Cloud Services
+
+| Service Category | AWS | Microsoft Azure | Google Cloud Platform |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud Identity |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
